@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ОСНОВНЫЕ -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- ОТТЕНКИ ЧЁРНОГО -->
+    <color name="black_dark">#000000</color>
+    <color name="black_light">#121212</color>
+
+    <!-- ОТТЕНКИ СЕРОГО (для акцентов) -->
+    <color name="gray_darkest">#1E1E1E</color>
+    <color name="gray_darker">#2D2D2D</color>
+    <color name="gray_dark">#424242</color>
+    <color name="gray">#616161</color>
+    <color name="gray_light">#9E9E9E</color>
+
+    <!-- ФОН -->
+    <color name="background">@color/black</color>
+    <color name="surface">@color/black_light</color>
+
+    <!-- ТЕКСТ -->
+    <color name="text_primary">@color/white</color>
+    <color name="text_secondary">@color/gray_light</color>
+
+    <!-- КНОПКИ/АКЦЕНТЫ -->
+    <color name="accent">@color/white</color>
+    <color name="button_bg">@color/gray_darker</color>
+
+    <!-- ГРАНИЦЫ -->
+    <color name="border">@color/gray_dark</color>
+    <color name="divider">@color/gray_darkest</color>
+</resources>
